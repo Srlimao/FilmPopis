@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Filmes</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Meus Filmes</string>
+    <string name="title_activity_meus_filmes">MeusFilmesActivity</string>
+</resources>
